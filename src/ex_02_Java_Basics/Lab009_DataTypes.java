@@ -3,6 +3,7 @@ package ex_02_Java_Basics;
 public class Lab009_DataTypes {
     //Covered in this Class from Lab021 to Lab023
     static void main() {
+//      Sample of datatypes
         byte b = 10;
         short s = 10000;
         int i = 1234567891;

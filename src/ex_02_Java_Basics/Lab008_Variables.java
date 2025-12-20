@@ -9,9 +9,13 @@ public class Lab008_Variables {
          byte is good option
     */
     static void main() {
+//      Examples of data types
         byte Age_A = 60;
         byte _age = 20;
         System.out.println(Age_A + " & " + _age);
+        char sample = 'A';
+        boolean NewSample = true;
+        System.out.println(sample + " & "+NewSample);
     }
 
 }
