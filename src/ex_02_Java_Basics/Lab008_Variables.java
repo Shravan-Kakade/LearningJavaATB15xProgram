@@ -13,6 +13,11 @@ public class Lab008_Variables {
         byte Age_A = 60;
         byte _age = 20;
         System.out.println(Age_A + " & " + _age);
+    /*
+        Variable with only '_' will give error while printing
+        int _ = 20;
+        System.out.println(_);
+    */
         char sample = 'A';
         boolean NewSample = true;
         System.out.println(sample + " & "+NewSample);
