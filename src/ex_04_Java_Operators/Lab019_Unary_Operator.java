@@ -4,6 +4,9 @@ public class Lab019_Unary_Operator {
     static void main() {
 //      Covered in this class - Lab038 - DEC 19, 2025
         float A = 156.21f; // here = is unary operator as only one operand is reqd to operate on
+        int A1 = +10;
+        int A2 = 20;    // Positive sign (+) is option in Java whereas negative (-) is must
+
         System.out.println(A);
     }
 }
