@@ -2,7 +2,7 @@ package practise;
 
 import java.util.Scanner;
 
-public class pr_002_SquareRoot {
+public class Pr_002_SquareRoot {
     //     Find the square root of a number.
     static void main() {
         Scanner sc = new Scanner(System.in);

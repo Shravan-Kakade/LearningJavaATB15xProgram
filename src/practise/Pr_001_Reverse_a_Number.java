@@ -1,6 +1,6 @@
 package practise;
 
-public class pr_001_Reverse_a_Number {
+public class Pr_001_Reverse_a_Number {
     static void main(String[] args) {
 //        Write a Program to reverse given number - used for loop
         String n = args[0];
